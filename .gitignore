@@ -11,6 +11,7 @@
 .settings
 .idea
  ##filter databfile、sln file##
+*.txt
 *.mdb
 *.ldb
 *.sln
