@@ -49,3 +49,5 @@ Thumbs.db
 /.mvn/
 /mvnw.cmd
 /mvnw
+# costomized files to be filtered #
+*.properties
