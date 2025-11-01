@@ -51,3 +51,4 @@ Thumbs.db
 /mvnw
 # costomized files to be filtered #
 *.properties
+/resources/
